@@ -81,7 +81,7 @@
 	
 	.reservation_sp::before{
 		content: '';
-		background: url(../image_sp/reserve.png) no-repeat;
+		background: url(../reserve_sp.png) no-repeat;
 		width: calc(50px / 2);
 		height: calc(50px / 2);
 		-webkit-background-size: contain;
